@@ -52,6 +52,6 @@ HTML (HyperText Markup Language) is the backbone of web development. It structur
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/shikhar5647/Basic_Dev_HTML.git
    ```
 
