@@ -1,0 +1,11 @@
+.red{
+    background:red;
+    color: white;
+}
+.green{
+    background:green;
+    color:rgb(5,32,64);
+    height: 200px;
+    background-image: url('world.jpeg');
+    background-repeat: no-repeat;
+}
